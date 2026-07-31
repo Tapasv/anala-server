@@ -13,7 +13,8 @@ app.use(cors({
         "http://localhost:5173",
         "http://192.168.0.198:5173",
         "http://10.12.70.65:5173",
-        "http://192.168.1.10:5173"
+        "http://192.168.1.10:5173",
+        "https://anala-client.vercel.app"
     ],
     credentials: true
 }));
